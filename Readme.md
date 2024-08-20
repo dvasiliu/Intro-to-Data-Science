@@ -1,4 +1,4 @@
-# Course Schedule - Spring 2024
+# Course Schedule
 
 | |What we will discuss/do in class|What to prepare (before class)|
 |:----|:----|:----|
@@ -7,7 +7,7 @@
 |Week 3 |Describing Data and Feature Scaling/Plotting|From “Python for Data Analysis,” read Sections 9.1 and 9.2|
 |Week 4|Introduction to modeling overview:  targets/features/regression vs classification; testing data versus training data; idea of hyperparameters, Ordinary Least Squares  | |
 |Week 5|Model Validation and Regularization|From “Python for Data Analysis,” read Sections 13.1|
-|Week 6|Spring Break| |
+|Week 6|Break| |
 |Week 7|Q/A and Review for the Midterm| |
 |Week 8|Patterns in High Dimensional Data, Principal Component Analysis, and T-stochastic Neighbor Embeddings| |
 |Week 9|Classification Problems, Logistic Regression, Decision Trees and Random Forests| |
