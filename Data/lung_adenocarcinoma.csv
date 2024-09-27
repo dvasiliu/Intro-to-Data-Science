@@ -1,0 +1,519 @@
+PATIENT_ID,SEX,AGE_AT_SURGERY,SMOKING_HISTORY,SMOKING_PACK_YEARS,SUV,CT_SIZE,CN_STATUS,DLCO,FEV1,RFS_STATUS,RFS_MONTHS,OS_MONTHS,OS_STATUS
+P-0000219,Female,52,Ever Smoker,5,10.3,3.4,Negative,88,108,1:Recurrence,24.56666667,83.8,0:LIVING
+P-0000280,Female,62,Never Smoker,0,2.6,2.1,Negative,61,76,1:Recurrence,14.86666667,77.43333333,0:LIVING
+P-0000627,Female,68,Ever Smoker,30,1.1,1.3,Negative,47,90,0:No recurrence,37.36666667,37.36666667,1:DECEASED
+P-0000867,Male,64,Ever Smoker,10,10.2,3.6,Negative,85,89,1:Recurrence,11.43333333,34.8,1:DECEASED
+P-0002534,Female,73,Never Smoker,0,10.5,3.4,Negative,96,102,1:Recurrence,10.16666667,52.96666667,0:LIVING
+P-0002544,Female,56,Ever Smoker,32,1.9,1.6,Negative,98,98,0:No recurrence,49.26666667,49.26666667,0:LIVING
+P-0002557,Female,35,Never Smoker,0,11.9,1.8,Positive,106,106,1:Recurrence,1.733333333,53.13333333,1:DECEASED
+P-0002880,Male,71,Never Smoker,0,2,2.4,Positive,92,116,0:No recurrence,29.1,29.1,0:LIVING
+P-0002949,Male,74,Ever Smoker,60,7.6,1.1,Negative,75,109,0:No recurrence,7.333333333,7.333333333,0:LIVING
+P-0003096,Female,66,Ever Smoker,35,1.9,1.5,Negative,77,106,0:No recurrence,49.46666667,49.46666667,0:LIVING
+P-0003323,Female,61,Never Smoker,0,6.4,2,Positive,102,94,0:No recurrence,45.23333333,45.23333333,0:LIVING
+P-0003489,Male,80,Ever Smoker,6,4.4,2.6,Negative,94,99,0:No recurrence,49.36666667,49.36666667,0:LIVING
+P-0003734,Male,68,Ever Smoker,49,3.7,1.7,Negative,59,108,0:No recurrence,47.66666667,47.66666667,0:LIVING
+P-0003785,Female,72,Ever Smoker,32,2.4,6.6,Negative,82,127,0:No recurrence,41.43333333,41.43333333,0:LIVING
+P-0004105,Female,74,Ever Smoker,40,1.4,1.2,Negative,108,115,0:No recurrence,44.93333333,44.93333333,1:DECEASED
+P-0004271,Female,35,Never Smoker,0,11.8,4.5,Negative,92,94,1:Recurrence,22.46666667,48.03333333,0:LIVING
+P-0004335,Female,44,Ever Smoker,11.25,1.3,1.2,Negative,124,127,0:No recurrence,37.26666667,37.26666667,0:LIVING
+P-0004361,Female,66,Ever Smoker,12,0.96,1.2,Negative,104,118,0:No recurrence,47.43333333,47.43333333,0:LIVING
+P-0004530,Female,63,Ever Smoker,20,1.5,1.2,Negative,83,88,0:No recurrence,10.73333333,10.73333333,0:LIVING
+P-0004678,Male,65,Ever Smoker,23.5,0,2.3,Negative,62,81,0:No recurrence,48.06666667,48.06666667,0:LIVING
+P-0004714,Female,66,Ever Smoker,50,3.4,2,Negative,52,87,0:No recurrence,47.36666667,47.36666667,0:LIVING
+P-0004730,Male,70,Never Smoker,0,2.6,1.5,Negative,96,94,0:No recurrence,43.46666667,43.46666667,0:LIVING
+P-0004858,Female,63,Ever Smoker,20,1.8,1,Positive,66,90,1:Recurrence,12.26666667,47.86666667,0:LIVING
+P-0004878,Female,78,Ever Smoker,27.5,1.8,1.7,Negative,74,88,0:No recurrence,43.76666667,43.76666667,0:LIVING
+P-0004882,Female,63,Ever Smoker,20,1.1,0.6,Negative,88,101,0:No recurrence,37.23333333,37.23333333,0:LIVING
+P-0005094,Female,70,Ever Smoker,9,0.7,1.5,Negative,124,106,0:No recurrence,49.83333333,49.83333333,0:LIVING
+P-0005190,Male,58,Ever Smoker,60,1,1,Negative,42,48,0:No recurrence,22.63333333,22.63333333,0:LIVING
+P-0005194,Female,50,Ever Smoker,22,2.2,1.8,Negative,101,105,0:No recurrence,43.46666667,43.46666667,0:LIVING
+P-0005198,Female,74,Ever Smoker,10,18.01,5.5,Negative,74,69,1:Recurrence,31.83333333,35.46666667,1:DECEASED
+P-0005544,Female,68,Ever Smoker,40,9.3,3,Positive,95,110,0:No recurrence,38.43333333,38.43333333,0:LIVING
+P-0005567,Female,67,Ever Smoker,30,8.7,3.2,Negative,84,104,0:No recurrence,36.66666667,36.66666667,0:LIVING
+P-0005580,Female,76,Never Smoker,0,2.6,2.4,Negative,83,106,0:No recurrence,40.16666667,40.16666667,0:LIVING
+P-0005694,Female,60,Ever Smoker,20,1.9,2.5,Negative,67,99,0:No recurrence,43,43,0:LIVING
+P-0005845,Female,74,Ever Smoker,2.14,1.5,0.9,Negative,70,82,1:Recurrence,53.9,93.36666667,0:LIVING
+P-0005873,Female,82,Ever Smoker,33.75,13.1,3.5,Negative,78,57,0:No recurrence,39.53333333,39.53333333,0:LIVING
+P-0005881,Female,64,Ever Smoker,50,2.86,1.3,Negative,66,111,0:No recurrence,38.33333333,38.33333333,0:LIVING
+P-0005927,Female,60,Ever Smoker,90,10.4,2,Negative,62,84,1:Recurrence,22.73333333,32.8,1:DECEASED
+P-0005942,Female,82,Ever Smoker,26.25,4.2,1.8,Negative,76,78,0:No recurrence,39.2,39.2,0:LIVING
+P-0005975,Female,80,Ever Smoker,10,6,1.2,Negative,77,84,1:Recurrence,15.73333333,21,1:DECEASED
+P-0006002,Female,76,Never Smoker,0,0,1.7,Negative,94,117,0:No recurrence,37.13333333,37.13333333,0:LIVING
+P-0006028,Female,85,Never Smoker,0,2.3,2.3,Negative,83,87,0:No recurrence,39.93333333,39.93333333,0:LIVING
+P-0006060,Female,67,Ever Smoker,62.5,9.1,6,Negative,60,107,0:No recurrence,35.46666667,35.46666667,0:LIVING
+P-0006115,Female,58,Ever Smoker,27,9,4.8,Positive,111,107,1:Recurrence,21.63333333,44.36666667,0:LIVING
+P-0006127,Male,72,Ever Smoker,5,4.5,1.2,Negative,72,77,1:Recurrence,8.2,38.16666667,1:DECEASED
+P-0006139,Female,76,Never Smoker,0,5.3,2.8,Negative,86,142,1:Recurrence,16.6,44.83333333,0:LIVING
+P-0006140,Female,65,Ever Smoker,4,2.2,2.2,Negative,118,95,0:No recurrence,40.36666667,40.36666667,0:LIVING
+P-0006210,Female,65,Ever Smoker,3.5,5.4,3,Negative,104,102,1:Recurrence,35.76666667,49.23333333,0:LIVING
+P-0006343,Female,60,Ever Smoker,44,14.7,2.4,Negative,67,73,1:Recurrence,7.033333333,50.93333333,0:LIVING
+P-0006421,Female,73,Ever Smoker,61,3.4,1.2,Negative,62,98,0:No recurrence,45,45,0:LIVING
+P-0006485,Female,83,Ever Smoker,50,9.1,4.2,Negative,92,82,0:No recurrence,14.7,14.86666667,1:DECEASED
+P-0006640,Female,83,Ever Smoker,1.2,2.1,2.6,Negative,98,75,0:No recurrence,33.53333333,33.53333333,0:LIVING
+P-0006747,Female,66,Ever Smoker,25,1.7,1.3,Negative,53,100,0:No recurrence,40.33333333,40.33333333,0:LIVING
+P-0006768,Male,65,Ever Smoker,26,8.1,2.8,Negative,97,101,1:Recurrence,10.86666667,40.36666667,1:DECEASED
+P-0006793,Female,50,Ever Smoker,15,11,0.9,Negative,81,87,1:Recurrence,12.1,13.93333333,0:LIVING
+P-0006912,Female,75,Never Smoker,0,5.1,2.8,Positive,53,96,1:Recurrence,19.7,43.26666667,0:LIVING
+P-0006920,Male,73,Ever Smoker,0.4,4.7,2.1,Negative,120,105,0:No recurrence,39.13333333,39.13333333,0:LIVING
+P-0006969,Male,79,Ever Smoker,30,2.2,1.2,Negative,64,97,0:No recurrence,15.46666667,15.46666667,1:DECEASED
+P-0007050,Male,59,Ever Smoker,1,6.7,3.9,Negative,91,105,0:No recurrence,42.06666667,42.06666667,0:LIVING
+P-0007074,Female,65,Ever Smoker,17.5,0,1.5,Negative,106,115,0:No recurrence,34.8,34.8,0:LIVING
+P-0007121,Female,57,Ever Smoker,30,8,1.3,Negative,97,112,1:Recurrence,6.533333333,41.7,0:LIVING
+P-0007328,Male,59,Ever Smoker,34,10.4,4.3,Positive,64,79,0:No recurrence,36.43333333,36.43333333,0:LIVING
+P-0007542,Female,62,Ever Smoker,33.75,8.3,1.4,Negative,47,57,0:No recurrence,43.76666667,43.76666667,0:LIVING
+P-0007545,Female,72,Ever Smoker,5,3.1,3.3,Negative,95,138,0:No recurrence,38.3,38.3,0:LIVING
+P-0007638,Female,69,Ever Smoker,19.2,19.8,3.9,Negative,70,139,0:No recurrence,40.86666667,40.86666667,0:LIVING
+P-0007776,Female,72,Ever Smoker,16,13.9,2.3,Negative,62,75,1:Recurrence,2.833333333,30.76666667,1:DECEASED
+P-0007779,Female,70,Ever Smoker,30,0,1.8,Negative,80,79,1:Recurrence,28.9,42.3,0:LIVING
+P-0007816,Female,78,Ever Smoker,2.3,13.8,1.7,Negative,98,98,0:No recurrence,37.1,37.1,0:LIVING
+P-0007896,Female,83,Never Smoker,0,7.4,2.1,Negative,72,96,1:Recurrence,19.93333333,38.26666667,1:DECEASED
+P-0007916,Male,67,Ever Smoker,56.25,3.02,5.8,Negative,29,63,1:Recurrence,34.4,37.8,1:DECEASED
+P-0008002,Male,71,Ever Smoker,60,18.8,4.3,Positive,61,96,1:Recurrence,17.6,41.13333333,0:LIVING
+P-0008029,Male,71,Ever Smoker,100,15.8,2.6,Positive,57,65,0:No recurrence,25.6,25.6,1:DECEASED
+P-0008176,Female,70,Never Smoker,0,3.2,4.9,Negative,75,113,1:Recurrence,12.7,45.76666667,1:DECEASED
+P-0008292,Female,72,Ever Smoker,7.5,0,1.3,Negative,90,92,0:No recurrence,32.7,32.7,0:LIVING
+P-0008553,Female,50,Ever Smoker,20,9.4,2.2,Negative,99,94,0:No recurrence,36.5,36.5,0:LIVING
+P-0008576,Female,72,Ever Smoker,54,4.6,2,Negative,65,91,0:No recurrence,37.76666667,37.76666667,0:LIVING
+P-0008577,Female,61,Ever Smoker,11.6,8.5,1.6,Negative,113,99,1:Recurrence,39.33333333,39.36666667,0:LIVING
+P-0008601,Male,59,Never Smoker,0,6.9,1.8,Negative,110,124,1:Recurrence,13.8,36.96666667,0:LIVING
+P-0008957,Male,69,Ever Smoker,82.5,4.8,1.4,Negative,53,75,0:No recurrence,38.53333333,38.53333333,0:LIVING
+P-0009042,Female,70,Ever Smoker,7,4.9,2.8,Negative,97,98,0:No recurrence,35.26666667,35.26666667,0:LIVING
+P-0009092,Female,59,Ever Smoker,30,4.2,1.4,Negative,65,90,0:No recurrence,19.1,19.1,0:LIVING
+P-0009194,Male,70,Ever Smoker,120,7.2,2.2,Negative,73,86,0:No recurrence,37.63333333,37.63333333,0:LIVING
+P-0009260,Female,79,Ever Smoker,20,0,0.5,Negative,122,172,0:No recurrence,35.5,35.5,0:LIVING
+P-0009289,Male,70,Ever Smoker,50,8.6,1.4,Negative,71,85,0:No recurrence,30.36666667,30.36666667,0:LIVING
+P-0009312,Male,51,Ever Smoker,3.75,4.6,2.4,Negative,88,73,1:Recurrence,30.36666667,39.3,0:LIVING
+P-0009313,Female,71,Ever Smoker,60,12.8,3.6,Negative,70,110,0:No recurrence,38.96666667,38.96666667,0:LIVING
+P-0009358,Female,72,Ever Smoker,6.8,7.1,6.3,Negative,56,104,1:Recurrence,9.3,12.8,1:DECEASED
+P-0009462,Male,74,Ever Smoker,9,3.4,3.7,Negative,84,100,0:No recurrence,35.56666667,35.56666667,0:LIVING
+P-0009590,Female,70,Ever Smoker,22,9.84,3.6,Negative,61,75,0:No recurrence,37.46666667,37.46666667,0:LIVING
+P-0009702,Male,72,Ever Smoker,30,4.2,2.2,Negative,54.5,95.8,1:Recurrence,9.033333333,9.033333333,1:DECEASED
+P-0009742,Male,75,Ever Smoker,22.5,2.3,1.6,Negative,82,97,0:No recurrence,42.1,42.1,0:LIVING
+P-0009920,Female,78,Ever Smoker,50,7.2,1.7,Negative,57,78.48,0:No recurrence,38.76666667,38.76666667,0:LIVING
+P-0009957,Female,65,Never Smoker,0,1.4,1.9,Negative,117,80,0:No recurrence,37.6,37.6,0:LIVING
+P-0009963,Female,54,Ever Smoker,5,15.8,7.6,Negative,70,79,1:Recurrence,8.1,38.26666667,0:LIVING
+P-0009975,Female,75,Ever Smoker,32,1.8,1.9,Negative,72,100,0:No recurrence,28.66666667,28.66666667,0:LIVING
+P-0010133,Female,73,Never Smoker,0,5.2,3.9,Negative,88,85,0:No recurrence,35.3,35.3,0:LIVING
+P-0010169,Male,82,Ever Smoker,0.75,2.7,2,Negative,90,111,0:No recurrence,30,30,0:LIVING
+P-0010210,Female,64,Ever Smoker,27,1.6,1.8,Negative,111,75,0:No recurrence,33,33,0:LIVING
+P-0010253,Female,75,Ever Smoker,49.5,4,1.3,Negative,68,69,0:No recurrence,35.06666667,35.06666667,0:LIVING
+P-0010307,Male,64,Ever Smoker,70,3.5,2.6,Negative,86,100,0:No recurrence,36.23333333,36.23333333,0:LIVING
+P-0010328,Male,66,Never Smoker,0,1.7,1.6,Negative,93,104,0:No recurrence,37.3,37.3,0:LIVING
+P-0010345,Male,72,Ever Smoker,7.5,3.2,2.3,Negative,59,110,0:No recurrence,6.033333333,6.033333333,0:LIVING
+P-0010359,Male,60,Ever Smoker,20,1.3,2,Negative,88,115,0:No recurrence,32.53333333,32.53333333,0:LIVING
+P-0010507,Male,81,Never Smoker,0,6.76,0.5,Negative,74,79,1:Recurrence,11.83333333,38.93333333,0:LIVING
+P-0010522,Male,70,Ever Smoker,15,0,1.2,Negative,79,93,0:No recurrence,37.73333333,37.73333333,0:LIVING
+P-0010592,Male,65,Ever Smoker,80,2.9,2.8,Negative,63,87,0:No recurrence,36.96666667,36.96666667,0:LIVING
+P-0010611,Female,63,Ever Smoker,30,1.4,2.7,Negative,65,59,0:No recurrence,31.76666667,31.76666667,0:LIVING
+P-0010741,Male,77,Ever Smoker,27.5,1.5,2.2,Negative,79.26,86.57,0:No recurrence,35.03333333,35.03333333,0:LIVING
+P-0010785,Male,77,Ever Smoker,15,3.9,1.2,Negative,75,91,0:No recurrence,22.7,22.7,1:DECEASED
+P-0010841,Female,61,Never Smoker,0,11.9,2.4,Negative,97,99,1:Recurrence,12.5,34.6,0:LIVING
+P-0010927,Female,62,Ever Smoker,8,19,5.3,Positive,80,101,1:Recurrence,19.9,77.53333333,0:LIVING
+P-0010980,Female,73,Ever Smoker,9.9,9.9,2.6,Negative,88,117,1:Recurrence,21.7,37.13333333,0:LIVING
+P-0011005,Male,65,Ever Smoker,46.25,1.74,1,Negative,114,89,0:No recurrence,37.36666667,37.36666667,0:LIVING
+P-0011150,Male,78,Ever Smoker,27,15.7,1.6,Negative,63,111,1:Recurrence,20.36666667,34.8,0:LIVING
+P-0011157,Male,80,Ever Smoker,36,3.3,1.5,Negative,71,103,1:Recurrence,1.433333333,33.9,1:DECEASED
+P-0011183,Female,77,Ever Smoker,30,9.72,3.6,Positive,64,117,1:Recurrence,13.8,38.9,1:DECEASED
+P-0011234,Female,72,Never Smoker,0,4.9,1.6,Negative,119,132,1:Recurrence,27.53333333,63.96666667,0:LIVING
+P-0011236,Female,65,Ever Smoker,50,5,3.8,Negative,80,75,0:No recurrence,31.3,31.3,0:LIVING
+P-0011413,Male,82,Never Smoker,0,2.7,1.9,Positive,77,90,0:No recurrence,36.5,36.5,0:LIVING
+P-0011461,Female,60,Ever Smoker,43,6.95,2.2,Negative,63,111,0:No recurrence,34.06666667,34.06666667,0:LIVING
+P-0012056,Male,62,Ever Smoker,72,5.48,1.1,Negative,96,86,1:Recurrence,7.566666667,18.56666667,1:DECEASED
+P-0012065,Male,43,Ever Smoker,19,11.1,2.7,Negative,77,91,0:No recurrence,25.5,25.5,0:LIVING
+P-0012088,Male,77,Ever Smoker,32,6.2,2,Negative,54,78,0:No recurrence,26.56666667,26.56666667,0:LIVING
+P-0012089,Female,61,Never Smoker,0,8.5,3.2,Negative,113,117,0:No recurrence,27.1,27.1,0:LIVING
+P-0012151,Male,59,Ever Smoker,35,2.4,1.5,Negative,38,89,0:No recurrence,31.23333333,31.23333333,0:LIVING
+P-0012161,Male,57,Ever Smoker,30,2.4,4,Negative,96,85,0:No recurrence,34.56666667,34.56666667,0:LIVING
+P-0012308,Male,82,Ever Smoker,30,7.7,4,Negative,96,115,0:No recurrence,32.4,32.4,0:LIVING
+P-0012456,Male,75,Ever Smoker,4,5,3.7,Negative,75,86,0:No recurrence,4.333333333,4.333333333,1:DECEASED
+P-0012476,Female,80,Ever Smoker,50,2,1.9,Negative,83,97,1:Recurrence,32.03333333,51.26666667,1:DECEASED
+P-0012569,Female,76,Ever Smoker,25,3.7,2.8,Negative,95,93,0:No recurrence,26.2,26.2,0:LIVING
+P-0012592,Female,62,Never Smoker,0,9.3,2.9,Negative,123,125,0:No recurrence,34.76666667,34.76666667,0:LIVING
+P-0012648,Male,62,Never Smoker,0,5.8,1.5,Negative,67,92,0:No recurrence,27.6,27.6,0:LIVING
+P-0012649,Female,72,Ever Smoker,112,0.9,1.5,Negative,85,87,0:No recurrence,33.4,33.4,0:LIVING
+P-0012664,Female,58,Never Smoker,0,2,2.7,Negative,76,92,0:No recurrence,34.5,34.5,0:LIVING
+P-0012739,Male,73,Ever Smoker,25,2.4,2.3,Negative,50,66,0:No recurrence,4.4,4.4,0:LIVING
+P-0012746,Female,59,Ever Smoker,29.25,8,2.8,Negative,74,80,0:No recurrence,1.266666667,1.266666667,0:LIVING
+P-0012757,Female,56,Ever Smoker,4.25,4.3,2.4,Negative,98,90,0:No recurrence,28.5,28.5,0:LIVING
+P-0012788,Female,69,Ever Smoker,12.9,11.9,2.2,Negative,91,102,0:No recurrence,32.13333333,32.13333333,0:LIVING
+P-0012894,Female,56,Ever Smoker,12.75,2,1.7,Negative,105,99,1:Recurrence,10.26666667,17.7,1:DECEASED
+P-0012913,Female,74,Ever Smoker,40,5.5,1.6,Negative,61,110,0:No recurrence,9,9,0:LIVING
+P-0012922,Female,65,Ever Smoker,20,8.4,2.5,Negative,88,86,0:No recurrence,32.23333333,32.23333333,0:LIVING
+P-0013016,Female,73,Never Smoker,0,8.9,5.1,Negative,77,116,1:Recurrence,12.16666667,27.4,1:DECEASED
+P-0013142,Female,63,Ever Smoker,47,5.6,1.9,Negative,45,33,0:No recurrence,29.4,29.4,0:LIVING
+P-0013273,Female,69,Never Smoker,0,5.8,3.2,Negative,112,84,0:No recurrence,28.9,28.9,0:LIVING
+P-0013295,Female,76,Ever Smoker,6,3,4.7,Negative,96,152,0:No recurrence,29.23333333,29.23333333,0:LIVING
+P-0013338,Female,66,Ever Smoker,50,10.9,1.4,Negative,58,70,1:Recurrence,6.9,12.06666667,1:DECEASED
+P-0013376,Female,71,Ever Smoker,62,2.1,1.7,Negative,74,72,0:No recurrence,33.36666667,33.36666667,0:LIVING
+P-0013509,Female,72,Ever Smoker,40,2.5,3.5,Negative,98,93,0:No recurrence,27.96666667,27.96666667,0:LIVING
+P-0013511,Male,63,Ever Smoker,20.7,1.9,1.2,Negative,67,77,0:No recurrence,33.66666667,33.66666667,0:LIVING
+P-0013531,Male,64,Ever Smoker,8,5.6,1.6,Negative,96,130,0:No recurrence,24.63333333,24.63333333,0:LIVING
+P-0013534,Female,78,Ever Smoker,6,1,2,Negative,97,142,0:No recurrence,34.06666667,34.06666667,0:LIVING
+P-0013696,Male,67,Ever Smoker,79.5,0,2.3,Negative,78,97,0:No recurrence,23.06666667,23.06666667,0:LIVING
+P-0013701,Female,71,Ever Smoker,60,0,1.3,Negative,82,75,0:No recurrence,29.6,29.6,0:LIVING
+P-0013702,Female,70,Ever Smoker,110,4.2,1.4,Negative,50,92,0:No recurrence,28.63333333,28.63333333,0:LIVING
+P-0013705,Male,78,Ever Smoker,60,1.1,2.1,Negative,90,107,0:No recurrence,27.3,27.3,0:LIVING
+P-0013708,Female,75,Never Smoker,0,0.9,1.5,Negative,95,112,0:No recurrence,30.13333333,30.13333333,0:LIVING
+P-0013710,Female,69,Ever Smoker,27,3.3,2.1,Negative,92,100,0:No recurrence,28.86666667,28.86666667,0:LIVING
+P-0013759,Female,56,Never Smoker,0,1.2,3.2,Negative,111,111,0:No recurrence,29.63333333,29.63333333,0:LIVING
+P-0013825,Female,77,Never Smoker,0,12.79,2.5,Negative,83,136,0:No recurrence,31.76666667,31.76666667,0:LIVING
+P-0013872,Female,73,Ever Smoker,15,0,2.2,Negative,96,84,0:No recurrence,22.26666667,22.26666667,0:LIVING
+P-0013900,Male,66,Ever Smoker,22.5,0,1.7,Negative,80,95,0:No recurrence,30.93333333,30.93333333,0:LIVING
+P-0013919,Female,74,Ever Smoker,1.5,2,3,Negative,108,123,0:No recurrence,27.83333333,27.83333333,0:LIVING
+P-0013966,Female,63,Never Smoker,0,3.6,1.4,Negative,98,68,0:No recurrence,25,25,0:LIVING
+P-0013978,Male,70,Ever Smoker,29,3.4,3.5,Negative,95,106,0:No recurrence,30.16666667,30.16666667,0:LIVING
+P-0013993,Female,76,Ever Smoker,15,4.6,2,Negative,79,125,0:No recurrence,31.6,31.6,0:LIVING
+P-0014011,Female,69,Never Smoker,0,4.3,5.1,Negative,95,86,0:No recurrence,31.6,31.6,0:LIVING
+P-0014089,Female,60,Ever Smoker,45,8,2.5,Negative,99,119,0:No recurrence,24.53333333,24.53333333,0:LIVING
+P-0014135,Female,70,Ever Smoker,37.5,11.7,3.1,Negative,98,91,0:No recurrence,35.73333333,35.73333333,0:LIVING
+P-0014221,Male,81,Ever Smoker,100,4.6,2,Negative,103.4,87.7,1:Recurrence,31.93333333,33.36666667,0:LIVING
+P-0014222,Female,50,Ever Smoker,22.5,3.7,2.2,Negative,90,79,0:No recurrence,25.6,25.6,0:LIVING
+P-0014223,Female,57,Never Smoker,0,3.3,5.3,Negative,93,128,0:No recurrence,30.13333333,30.13333333,0:LIVING
+P-0014232,Male,59,Ever Smoker,25.5,10,1.8,Negative,96,98,1:Recurrence,9.133333333,32.93333333,0:LIVING
+P-0014239,Male,72,Ever Smoker,52,8.7,5.8,Positive,53,67,0:No recurrence,31.06666667,31.06666667,0:LIVING
+P-0014257,Female,74,Ever Smoker,15,1.6,1.2,Negative,80,100,0:No recurrence,26.06666667,26.06666667,0:LIVING
+P-0014285,Female,61,Ever Smoker,15,8.6,2.7,Negative,115,92,1:Recurrence,8.9,34.53333333,0:LIVING
+P-0014297,Male,71,Ever Smoker,20,2.1,0.9,Negative,103,125,0:No recurrence,27.66666667,27.66666667,0:LIVING
+P-0014413,Female,72,Ever Smoker,45,1.3,2.4,Negative,76,71,0:No recurrence,26.56666667,26.56666667,0:LIVING
+P-0014430,Female,67,Ever Smoker,105,3.1,0.8,Negative,63,72,0:No recurrence,29.7,29.7,0:LIVING
+P-0014437,Female,61,Never Smoker,0,7.9,1.1,Negative,111,128,0:No recurrence,30.7,30.7,0:LIVING
+P-0014453,Male,71,Ever Smoker,20,2.4,1.8,Negative,77,67,0:No recurrence,25.5,25.5,0:LIVING
+P-0014496,Male,79,Ever Smoker,15,3.1,1.4,Negative,71,74,0:No recurrence,28.7,28.7,0:LIVING
+P-0014525,Female,79,Never Smoker,0,1,1.2,Negative,89,69,0:No recurrence,30.33333333,30.33333333,0:LIVING
+P-0014688,Female,76,Never Smoker,0,4.5,3.3,Negative,118,116,0:No recurrence,25.03333333,25.03333333,0:LIVING
+P-0014805,Female,66,Ever Smoker,25,0.9,1.1,Negative,54,76,0:No recurrence,35.8,35.8,0:LIVING
+P-0014817,Female,63,Ever Smoker,50,3.6,2.5,Negative,92,85,0:No recurrence,28.7,28.7,0:LIVING
+P-0014875,Female,52,Never Smoker,0,2.5,1.8,Negative,99,100,0:No recurrence,32.16666667,32.16666667,0:LIVING
+P-0014878,Male,70,Never Smoker,0,6,2.1,Negative,87,83,0:No recurrence,27.73333333,27.73333333,0:LIVING
+P-0014990,Female,74,Ever Smoker,30,15.3,1.8,Negative,83,84,0:No recurrence,32.96666667,32.96666667,0:LIVING
+P-0015018,Female,55,Ever Smoker,20,1.9,1.4,Negative,111,106,0:No recurrence,23.36666667,23.36666667,0:LIVING
+P-0015112,Female,79,Ever Smoker,52.5,7.9,2.1,Negative,91,86,0:No recurrence,25.33333333,25.33333333,0:LIVING
+P-0015256,Female,73,Ever Smoker,50,5.4,1.9,Negative,54,85,0:No recurrence,26.53333333,26.53333333,0:LIVING
+P-0015332,Female,55,Ever Smoker,4,4.5,3.4,Negative,92.97,110.66,1:Recurrence,49.06666667,80.93333333,0:LIVING
+P-0015352,Male,72,Ever Smoker,2.5,1.7,2.9,Negative,76,55,0:No recurrence,26.93333333,26.93333333,0:LIVING
+P-0015358,Female,66,Ever Smoker,60,3.2,1.4,Negative,85,113,1:Recurrence,7.5,8.433333333,0:LIVING
+P-0015360,Male,70,Ever Smoker,69,12.9,3.9,Positive,61,77,1:Recurrence,1.733333333,33.63333333,0:LIVING
+P-0015368,Male,69,Ever Smoker,30,5,1.3,Negative,63,55,1:Recurrence,11.16666667,40.8,0:LIVING
+P-0015388,Male,78,Ever Smoker,7.5,8.6,3,Negative,71,83,1:Recurrence,12.9,17.73333333,1:DECEASED
+P-0015454,Male,80,Ever Smoker,24,13.1,6,Positive,78,75,0:No recurrence,28.86666667,28.86666667,0:LIVING
+P-0015576,Male,66,Ever Smoker,27,3.9,4.8,Negative,95,105,0:No recurrence,25.4,25.4,0:LIVING
+P-0015578,Male,77,Ever Smoker,120,3.2,4.2,Negative,44,64,0:No recurrence,30.56666667,30.56666667,0:LIVING
+P-0015592,Male,66,Ever Smoker,16.5,2.3,1.3,Negative,59,80,0:No recurrence,27.5,27.5,0:LIVING
+P-0015601,Male,76,Never Smoker,0,12.2,4,Negative,70,93,0:No recurrence,30.3,30.3,0:LIVING
+P-0015815,Male,70,Ever Smoker,31.25,8.6,3.4,Negative,86,87,1:Recurrence,9.6,42.26666667,0:LIVING
+P-0015862,Male,72,Ever Smoker,66,6.1,2,Negative,90,76,0:No recurrence,26.43333333,26.43333333,0:LIVING
+P-0015934,Female,71,Ever Smoker,37.5,3.4,1.3,Negative,61,73,0:No recurrence,32.26666667,32.26666667,0:LIVING
+P-0016036,Female,82,Ever Smoker,48,9.5,4.7,Negative,64,108,0:No recurrence,10,10,1:DECEASED
+P-0016043,Male,61,Ever Smoker,43,5.2,1.5,Positive,51,32,0:No recurrence,29.1,29.1,0:LIVING
+P-0016050,Female,74,Ever Smoker,10,8.6,2.1,Negative,95,112,0:No recurrence,28.86666667,28.86666667,0:LIVING
+P-0016165,Male,73,Never Smoker,0,2.2,1.2,Negative,91,91,0:No recurrence,29.26666667,29.26666667,0:LIVING
+P-0016173,Female,50,Ever Smoker,13,11.9,4,Negative,54,92,0:No recurrence,24.23333333,24.23333333,0:LIVING
+P-0016204,Female,45,Never Smoker,0,2.3,1.3,Negative,96,67,0:No recurrence,25.63333333,25.63333333,0:LIVING
+P-0016250,Female,68,Ever Smoker,15,1.3,1.6,Negative,103,98,0:No recurrence,26.73333333,26.73333333,0:LIVING
+P-0016309,Female,78,Ever Smoker,11,2.6,1.1,Negative,119,130,0:No recurrence,25.4,25.4,0:LIVING
+P-0016378,Female,68,Never Smoker,0,1.6,2,Negative,92,83,0:No recurrence,25.16666667,25.16666667,0:LIVING
+P-0016464,Male,70,Ever Smoker,60,3.4,1.8,Negative,103,118,0:No recurrence,28.73333333,28.73333333,0:LIVING
+P-0016471,Female,74,Ever Smoker,22.5,1.8,1.9,Negative,98,119,0:No recurrence,25.06666667,25.06666667,0:LIVING
+P-0016504,Male,73,Ever Smoker,20,1.5,1.9,Negative,59,79,0:No recurrence,29.53333333,29.53333333,0:LIVING
+P-0016527,Male,58,Ever Smoker,30,2.2,0.8,Negative,106,103,0:No recurrence,23.4,23.4,0:LIVING
+P-0016539,Female,80,Ever Smoker,25,5.2,1.5,Negative,48,92,0:No recurrence,23.1,23.1,0:LIVING
+P-0016544,Female,84,Ever Smoker,50,3.9,2.5,Negative,65,91,0:No recurrence,22.86666667,22.86666667,0:LIVING
+P-0016613,Female,65,Ever Smoker,48,11.3,4.9,Negative,64,100,0:No recurrence,27.73333333,27.73333333,0:LIVING
+P-0016736,Male,71,Never Smoker,0,5.1,2.7,Negative,127,106,0:No recurrence,20.66666667,20.66666667,0:LIVING
+P-0016781,Female,87,Ever Smoker,25,30.8,3.5,Negative,72,98,1:Recurrence,11.63333333,22.06666667,0:LIVING
+P-0016867,Female,64,Ever Smoker,41,5.8,1.2,Negative,70,57,0:No recurrence,27.8,27.8,0:LIVING
+P-0017038,Male,77,Never Smoker,0,3,4.8,Positive,99,120,0:No recurrence,28.66666667,28.66666667,0:LIVING
+P-0017049,Female,45,Ever Smoker,13.5,5.7,1.7,Negative,78,97,0:No recurrence,25.63333333,25.63333333,0:LIVING
+P-0017231,Female,74,Ever Smoker,10,3.4,2.2,Negative,83,111,0:No recurrence,25.93333333,25.93333333,0:LIVING
+P-0017322,Female,66,Ever Smoker,22.5,4.5,1.1,Negative,62,73,1:Recurrence,11.63333333,12.86666667,0:LIVING
+P-0017324,Female,71,Ever Smoker,28.75,1.1,1.1,Negative,113,116,0:No recurrence,27.5,27.5,0:LIVING
+P-0017328,Female,65,Ever Smoker,0.45,1.6,1.2,Negative,102,108,0:No recurrence,26.13333333,26.13333333,0:LIVING
+P-0017389,Female,48,Ever Smoker,13.5,7.3,3.7,Negative,86,91,0:No recurrence,28.03333333,28.03333333,0:LIVING
+P-0017437,Female,66,Ever Smoker,1.875,7,2.1,Positive,111,93,1:Recurrence,1,25.33333333,1:DECEASED
+P-0017448,Female,57,Ever Smoker,45,7.5,7.7,Negative,66,74,0:No recurrence,28.73333333,28.73333333,0:LIVING
+P-0017500,Female,69,Ever Smoker,18,0,1.3,Negative,76,83,0:No recurrence,26.4,26.4,0:LIVING
+P-0017523,Male,66,Ever Smoker,11.25,5.3,1.2,Negative,92,83,0:No recurrence,27.5,27.5,0:LIVING
+P-0017534,Female,78,Never Smoker,0,3.7,2.1,Negative,115,108,0:No recurrence,26.16666667,26.16666667,0:LIVING
+P-0017546,Female,81,Ever Smoker,15,3.5,4.2,Negative,91,77,0:No recurrence,26,26,0:LIVING
+P-0017780,Female,66,Ever Smoker,40,4.5,1.5,Negative,47,42,0:No recurrence,25.33333333,25.33333333,0:LIVING
+P-0017803,Male,80,Ever Smoker,4.65,6.8,1.6,Negative,58,76,0:No recurrence,27.56666667,27.56666667,0:LIVING
+P-0017904,Female,54,Never Smoker,0,0.6,1.4,Negative,89,92,0:No recurrence,22.63333333,22.63333333,0:LIVING
+P-0017915,Female,71,Ever Smoker,105,0,2.4,Negative,59,84,0:No recurrence,27.43333333,27.43333333,0:LIVING
+P-0017973,Female,60,Ever Smoker,21,10.7,2,Negative,59,71,0:No recurrence,26.33333333,26.33333333,0:LIVING
+P-0017976,Female,68,Never Smoker,0,7,5.8,Negative,66,69,1:Recurrence,16.6,22.1,0:LIVING
+P-0018043,Female,55,Ever Smoker,17.5,5.3,8.8,Positive,65,85,1:Recurrence,11.93333333,20.4,1:DECEASED
+P-0018047,Female,73,Ever Smoker,52,2,1.1,Negative,42,50,0:No recurrence,24.26666667,24.26666667,0:LIVING
+P-0018069,Male,41,Never Smoker,0,3.5,2,Negative,138,124,0:No recurrence,27.66666667,27.66666667,0:LIVING
+P-0018171,Female,59,Ever Smoker,33,4.06,1.2,Negative,74,85,0:No recurrence,26.53333333,26.53333333,0:LIVING
+P-0018196,Female,56,Ever Smoker,1,12.5,3.7,Negative,86,102,1:Recurrence,26.03333333,26.03333333,0:LIVING
+P-0018201,Female,65,Ever Smoker,7,2.3,1.2,Negative,83,130,0:No recurrence,26.6,26.6,0:LIVING
+P-0018327,Female,75,Ever Smoker,75,31.7,3.6,Negative,68,60,0:No recurrence,21.43333333,21.43333333,0:LIVING
+P-0018476,Female,70,Never Smoker,0,1.3,2.3,Negative,84,133,0:No recurrence,16.03333333,16.03333333,1:DECEASED
+P-0018654,Male,71,Ever Smoker,72,10.3,4.4,Negative,86,119,1:Recurrence,17.6,87.26666667,0:LIVING
+P-0018692,Female,73,Ever Smoker,8.75,6.8,2.5,Positive,59,59,0:No recurrence,0.4,0.4,1:DECEASED
+P-0018761,Female,73,Ever Smoker,35,1.3,2.6,Negative,80,123,0:No recurrence,15.4,15.4,0:LIVING
+P-0018881,Female,57,Never Smoker,0,16.4,2.7,Negative,66,83,1:Recurrence,6.466666667,23.06666667,1:DECEASED
+P-0018967,Female,55,Ever Smoker,30,0,2.1,Negative,66,68,0:No recurrence,16.63333333,16.63333333,0:LIVING
+P-0018969,Female,64,Never Smoker,0,2.6,1.3,Negative,91,94,0:No recurrence,25.23333333,25.23333333,0:LIVING
+P-0018972,Female,46,Ever Smoker,8,6.3,3.8,Negative,90,106,0:No recurrence,26.8,26.8,0:LIVING
+P-0019023,Male,70,Never Smoker,0,5.6,3.5,Negative,82,121,0:No recurrence,19.3,19.3,0:LIVING
+P-0019111,Female,85,Ever Smoker,25,7.8,4.4,Negative,60,85,0:No recurrence,23.93333333,23.93333333,0:LIVING
+P-0019131,Female,68,Never Smoker,0,4.4,1.5,Negative,97,86,0:No recurrence,22.93333333,22.93333333,0:LIVING
+P-0019418,Female,77,Ever Smoker,4,1.4,2.1,Negative,67,91,0:No recurrence,22.56666667,22.56666667,0:LIVING
+P-0019426,Male,68,Ever Smoker,4.5,7.4,2.8,Negative,63,80,0:No recurrence,12.86666667,12.86666667,0:LIVING
+P-0019436,Female,64,Ever Smoker,45,11.1,2.3,Negative,74,80,0:No recurrence,3.533333333,3.533333333,0:LIVING
+P-0019444,Male,57,Ever Smoker,20,12.7,4.6,Negative,141,80.5,0:No recurrence,23.76666667,23.76666667,0:LIVING
+P-0019469,Female,70,Ever Smoker,23,3.4,1.7,Positive,85,94,0:No recurrence,21.93333333,21.93333333,0:LIVING
+P-0019495,Female,59,Ever Smoker,33.75,23.2,2.2,Negative,108,118,0:No recurrence,19.03333333,19.03333333,0:LIVING
+P-0019558,Male,68,Ever Smoker,55.5,3.1,1.4,Negative,80,71,0:No recurrence,25.3,25.3,0:LIVING
+P-0019564,Female,66,Ever Smoker,4,3.55,1.7,Negative,81,83,0:No recurrence,23.76666667,23.76666667,0:LIVING
+P-0019597,Female,71,Never Smoker,0,9.8,4.4,Negative,60,94,0:No recurrence,22.2,22.2,0:LIVING
+P-0019676,Female,73,Ever Smoker,18,3.7,3.1,Negative,83,97,0:No recurrence,20.56666667,20.56666667,0:LIVING
+P-0019802,Female,52,Never Smoker,0,1.7,1.6,Negative,96,75,0:No recurrence,19.5,19.5,0:LIVING
+P-0019857,Female,66,Never Smoker,0,29.6,4.2,Negative,68,61,1:Recurrence,11.8,24.13333333,0:LIVING
+P-0019897,Female,62,Ever Smoker,10.5,1.4,3,Negative,98,109,0:No recurrence,20.83333333,20.83333333,0:LIVING
+P-0019904,Female,73,Ever Smoker,120,4.2,1.2,Negative,56,93,1:Recurrence,6.633333333,11.23333333,0:LIVING
+P-0019936,Female,75,Ever Smoker,30,1.8,3.7,Negative,107,105,0:No recurrence,22.76666667,22.76666667,0:LIVING
+P-0019950,Female,78,Ever Smoker,25,1.4,5.6,Negative,40,73,1:Recurrence,18.4,27.76666667,0:LIVING
+P-0019982,Female,76,Ever Smoker,34.5,1.7,1.2,Negative,70,87,0:No recurrence,19.63333333,19.63333333,0:LIVING
+P-0020014,Male,63,Ever Smoker,40,1.8,1.3,Negative,61,93,0:No recurrence,25.73333333,25.73333333,0:LIVING
+P-0020158,Female,78,Ever Smoker,1.25,2.4,1.8,Negative,92,128,0:No recurrence,22.9,22.9,0:LIVING
+P-0020177,Female,71,Never Smoker,0,2.2,2.4,Negative,62,74,0:No recurrence,21.5,21.5,0:LIVING
+P-0020437,Female,61,Ever Smoker,40,8.1,2.7,Negative,38,84,0:No recurrence,23.23333333,23.23333333,0:LIVING
+P-0020503,Male,68,Ever Smoker,52.5,11.2,2.6,Negative,67,122,1:Recurrence,13.03333333,26.1,0:LIVING
+P-0020521,Female,49,Ever Smoker,45,4.47,1.5,Negative,96,102,0:No recurrence,24.7,24.7,0:LIVING
+P-0020717,Female,65,Ever Smoker,40,1.6,1.8,Negative,79,99,0:No recurrence,19.9,19.9,0:LIVING
+P-0020776,Female,66,Ever Smoker,15,2.3,1.9,Negative,70,90,0:No recurrence,23.76666667,23.76666667,0:LIVING
+P-0020779,Male,75,Ever Smoker,100,4,3.3,Negative,67,80,0:No recurrence,23.6,23.6,0:LIVING
+P-0020780,Female,63,Never Smoker,0,4.5,1.2,Negative,131,109,0:No recurrence,22.73333333,22.73333333,0:LIVING
+P-0020782,Female,65,Ever Smoker,45,1.4,1.4,Negative,89,94,0:No recurrence,23.7,23.7,0:LIVING
+P-0020828,Female,64,Ever Smoker,37.5,2.9,1.7,Negative,93,63,0:No recurrence,22.46666667,22.46666667,0:LIVING
+P-0020883,Male,82,Ever Smoker,70,1.8,1.6,Negative,46,88,0:No recurrence,21.96666667,21.96666667,0:LIVING
+P-0020966,Female,61,Ever Smoker,64.5,5.3,1.3,Negative,72,99,0:No recurrence,22.43333333,22.43333333,0:LIVING
+P-0021062,Male,75,Ever Smoker,82.5,0,0.8,Negative,93,96,0:No recurrence,19.9,19.9,0:LIVING
+P-0021105,Female,80,Ever Smoker,7.5,0,1.9,Negative,84,58,0:No recurrence,17.2,17.2,0:LIVING
+P-0021191,Female,74,Ever Smoker,51,2.2,1.3,Negative,95,98,0:No recurrence,23.3,23.3,0:LIVING
+P-0021227,Female,73,Ever Smoker,24,4.9,1.3,Negative,90,103,0:No recurrence,23,23,0:LIVING
+P-0021236,Female,68,Ever Smoker,1.8,3.1,3.6,Negative,88,117,0:No recurrence,7.033333333,7.033333333,0:LIVING
+P-0021329,Male,77,Ever Smoker,120,23.8,4.3,Positive,49,49,0:No recurrence,23.26666667,23.26666667,0:LIVING
+P-0021422,Male,64,Ever Smoker,16,1.3,2,Negative,60,107,0:No recurrence,24.33333333,24.33333333,0:LIVING
+P-0021429,Female,66,Never Smoker,0,1.9,1.5,Negative,79,76,0:No recurrence,15.66666667,15.66666667,0:LIVING
+P-0021539,Female,61,Ever Smoker,1.5,5.4,3.1,Positive,82,97,0:No recurrence,22.33333333,22.33333333,0:LIVING
+P-0021691,Female,74,Ever Smoker,5,1.8,1.1,Negative,99,85,0:No recurrence,24.1,24.1,0:LIVING
+P-0021778,Male,74,Ever Smoker,48.75,2.9,3.2,Negative,73,101,0:No recurrence,14.76666667,14.76666667,0:LIVING
+P-0021849,Male,71,Ever Smoker,30,4.9,2.5,Negative,91,92,0:No recurrence,20.6,20.6,0:LIVING
+P-0021861,Male,72,Ever Smoker,40,7.3,2.7,Negative,53,88,0:No recurrence,22.1,22.1,0:LIVING
+P-0021987,Female,68,Ever Smoker,45,2.6,1.2,Negative,67,93,0:No recurrence,20,20,0:LIVING
+P-0022186,Female,79,Ever Smoker,15,3.6,3.8,Negative,91,90,0:No recurrence,17.96666667,17.96666667,0:LIVING
+P-0022247,Male,70,Ever Smoker,50,2.6,1.1,Negative,99,111,0:No recurrence,19.36666667,19.36666667,0:LIVING
+P-0022251,Female,64,Ever Smoker,22.5,2.2,1.8,Positive,108,97,0:No recurrence,23.43333333,23.43333333,0:LIVING
+P-0022303,Female,70,Never Smoker,0,1.5,1.7,Negative,99,109,0:No recurrence,17.9,17.9,0:LIVING
+P-0022353,Female,66,Never Smoker,0,3,1.8,Negative,68,71,0:No recurrence,4.4,4.4,0:LIVING
+P-0022424,Female,68,Never Smoker,0,1.2,2.4,Negative,99,95,0:No recurrence,1.4,1.4,0:LIVING
+P-0022427,Male,64,Never Smoker,0,5.1,3,Negative,102,90,1:Recurrence,89.36666667,111.0333333,0:LIVING
+P-0022450,Female,75,Ever Smoker,34,8.9,1.4,Negative,66,111,1:Recurrence,8.166666667,24.53333333,0:LIVING
+P-0022453,Female,52,Ever Smoker,21.75,3.9,3.3,Negative,119,112,0:No recurrence,19.63333333,19.63333333,0:LIVING
+P-0022527,Female,89,Never Smoker,0,2.4,3.8,Negative,67,84,0:No recurrence,23.63333333,23.63333333,0:LIVING
+P-0022578,Female,64,Never Smoker,0,2,1.9,Negative,96,85,0:No recurrence,83.13333333,83.13333333,0:LIVING
+P-0022579,Female,60,Ever Smoker,20,0,0.7,Negative,87,95,0:No recurrence,19.06666667,19.06666667,0:LIVING
+P-0022830,Female,73,Ever Smoker,18.75,5.2,2.6,Negative,84,110,1:Recurrence,17.6,21.2,0:LIVING
+P-0022844,Male,68,Ever Smoker,25,2.9,1.6,Negative,43,72,0:No recurrence,12.46666667,12.46666667,0:LIVING
+P-0023153,Female,76,Ever Smoker,20,3.2,3,Negative,71,95,0:No recurrence,5.566666667,5.566666667,0:LIVING
+P-0023161,Female,71,Never Smoker,0,5.1,2.5,Negative,83,98,1:Recurrence,40.16666667,78.6,0:LIVING
+P-0023206,Male,80,Never Smoker,0,6.4,3.8,Negative,92,116,0:No recurrence,12.13333333,12.13333333,0:LIVING
+P-0023219,Male,79,Ever Smoker,60,16.8,2.5,Negative,79,105,0:No recurrence,20.2,20.2,1:DECEASED
+P-0023248,Male,68,Never Smoker,0,3,3,Negative,111,75,0:No recurrence,22.13333333,22.13333333,0:LIVING
+P-0023319,Female,59,Ever Smoker,25,1.5,1.5,Negative,98,144,0:No recurrence,23.3,23.3,0:LIVING
+P-0023366,Male,74,Ever Smoker,56,18,4.5,Negative,65,79,0:No recurrence,20.73333333,20.73333333,0:LIVING
+P-0023406,Female,66,Ever Smoker,50,2.5,1.2,Negative,74,57,0:No recurrence,19.06666667,19.06666667,0:LIVING
+P-0023471,Female,59,Ever Smoker,46.25,3.5,1,Negative,58,65,0:No recurrence,21.63333333,21.63333333,0:LIVING
+P-0023481,Female,63,Ever Smoker,30,5.8,2,Negative,48,47,0:No recurrence,21.16666667,21.16666667,0:LIVING
+P-0023552,Male,65,Ever Smoker,13,2.4,3.8,Negative,110,112,0:No recurrence,22.66666667,22.66666667,0:LIVING
+P-0023574,Female,59,Never Smoker,0,11.1,3.3,Negative,89,84,1:Recurrence,13.23333333,19.3,0:LIVING
+P-0023602,Male,67,Ever Smoker,40,4.5,2.2,Negative,86,108,0:No recurrence,21.86666667,21.86666667,0:LIVING
+P-0023704,Female,65,Never Smoker,0,1.4,1.2,Negative,97,98,0:No recurrence,19.03333333,19.03333333,0:LIVING
+P-0023745,Female,71,Never Smoker,0,1.7,1.8,Negative,83,103,0:No recurrence,15.96666667,15.96666667,0:LIVING
+P-0023780,Female,67,Ever Smoker,36,15.2,5.4,Positive,71,91,0:No recurrence,20.63333333,20.63333333,0:LIVING
+P-0023859,Male,75,Ever Smoker,35,7.9,5.1,Negative,50,72,0:No recurrence,19.5,19.5,0:LIVING
+P-0024035,Female,70,Ever Smoker,22.5,0,1,Negative,73,88,0:No recurrence,14.86666667,14.86666667,0:LIVING
+P-0024045,Male,66,Never Smoker,0,2.9,1.4,Negative,104,123,0:No recurrence,19.4,19.4,0:LIVING
+P-0024066,Male,76,Ever Smoker,60,1.3,1.4,Negative,84,92,0:No recurrence,17.56666667,17.56666667,0:LIVING
+P-0024090,Male,75,Ever Smoker,4.5,6.3,2.3,Negative,71,125,0:No recurrence,11.46666667,11.46666667,0:LIVING
+P-0024136,Female,62,Ever Smoker,30,1.3,1.5,Negative,92,116,0:No recurrence,21.43333333,21.43333333,0:LIVING
+P-0024178,Female,65,Ever Smoker,5.25,5.3,2.3,Negative,64,131,0:No recurrence,13.33333333,13.33333333,0:LIVING
+P-0024200,Female,67,Ever Smoker,45,2.2,1.3,Negative,88,83,0:No recurrence,8,8,0:LIVING
+P-0024225,Female,82,Ever Smoker,7,3.9,2.2,Negative,100,117,0:No recurrence,17.46666667,17.46666667,0:LIVING
+P-0024228,Female,62,Ever Smoker,20,9.2,1.9,Negative,97,98,0:No recurrence,4.566666667,4.566666667,0:LIVING
+P-0024483,Female,62,Ever Smoker,12,1.2,1.7,Negative,61,77,0:No recurrence,19.9,19.9,0:LIVING
+P-0024567,Male,69,Ever Smoker,36.75,14,2.7,Negative,81,116,1:Recurrence,7.033333333,7.033333333,0:LIVING
+P-0024571,Female,64,Ever Smoker,23,2.8,1.6,Negative,79,91,0:No recurrence,19.33333333,19.33333333,0:LIVING
+P-0024737,Female,61,Ever Smoker,30,6.9,4.1,Negative,86,93,0:No recurrence,1.533333333,1.533333333,0:LIVING
+P-0024758,Male,74,Ever Smoker,40,13.6,2.9,Negative,95,91,1:Recurrence,19.63333333,20.06666667,0:LIVING
+P-0024834,Female,66,Ever Smoker,76,3.7,0.9,Negative,52,65,0:No recurrence,15.06666667,15.06666667,0:LIVING
+P-0024843,Female,66,Never Smoker,0,2.4,1.6,Positive,110,100,0:No recurrence,21.46666667,21.46666667,0:LIVING
+P-0024949,Female,74,Ever Smoker,25,7,2.6,Negative,69,100,1:Recurrence,20.5,20.8,0:LIVING
+P-0025107,Female,67,Never Smoker,0,4.7,1,Negative,120,99,0:No recurrence,18.9,18.9,0:LIVING
+P-0025330,Female,67,Ever Smoker,53,1.5,1.7,Negative,81,70,1:Recurrence,43.83333333,52.83333333,0:LIVING
+P-0025354,Female,59,Ever Smoker,92,5.1,6.2,Negative,48,53,0:No recurrence,17.7,17.7,0:LIVING
+P-0025409,Female,58,Ever Smoker,40,1.8,1.5,Negative,105,93,0:No recurrence,16.6,16.6,0:LIVING
+P-0025411,Female,47,Ever Smoker,31,7.7,1.6,Negative,71,105,0:No recurrence,19.9,19.9,0:LIVING
+P-0025451,Female,47,Ever Smoker,2.7,9.8,2.4,Negative,106,99,0:No recurrence,14.4,14.4,0:LIVING
+P-0025546,Female,62,Ever Smoker,35,6.1,1.2,Negative,82,98,0:No recurrence,17.06666667,17.06666667,0:LIVING
+P-0025566,Female,62,Ever Smoker,0.9,2.8,3.1,Negative,85,100,0:No recurrence,21.26666667,21.26666667,0:LIVING
+P-0025569,Female,81,Ever Smoker,62.5,10.1,2.9,Negative,45,79,1:Recurrence,18.73333333,20.1,0:LIVING
+P-0025575,Female,63,Ever Smoker,0.5,1.7,2.1,Negative,88,94,0:No recurrence,18.93333333,18.93333333,0:LIVING
+P-0025652,Female,61,Never Smoker,0,4.6,2.4,Negative,116,88,0:No recurrence,14.26666667,14.26666667,0:LIVING
+P-0025722,Female,49,Ever Smoker,4.8,1.8,1.3,Negative,98,108,0:No recurrence,19.2,19.2,0:LIVING
+P-0025833,Female,67,Never Smoker,0,6.3,4.5,Negative,68,117,0:No recurrence,17.93333333,17.93333333,0:LIVING
+P-0025852,Female,65,Never Smoker,0,1.8,1.3,Negative,122,117,0:No recurrence,17.93333333,17.93333333,0:LIVING
+P-0025872,Male,67,Ever Smoker,100,2.1,1.8,Negative,74,76,0:No recurrence,19.5,19.5,0:LIVING
+P-0025918,Male,70,Ever Smoker,25,5,2,Negative,62,87,0:No recurrence,5.233333333,5.233333333,0:LIVING
+P-0025931,Female,54,Ever Smoker,28.75,1.5,1.1,Negative,105,108,0:No recurrence,9.2,9.2,0:LIVING
+P-0025936,Female,78,Ever Smoker,16.5,3.8,1.6,Negative,71,88,0:No recurrence,16.96666667,16.96666667,0:LIVING
+P-0025956,Female,70,Ever Smoker,25,11.5,1.9,Positive,88,121,1:Recurrence,8.933333333,14.46666667,1:DECEASED
+P-0026029,Male,67,Ever Smoker,70,14.6,4.7,Negative,62,76,0:No recurrence,17.5,17.5,0:LIVING
+P-0026045,Male,71,Never Smoker,0,6.1,3.6,Negative,92,88,0:No recurrence,15.6,15.6,0:LIVING
+P-0026120,Female,55,Ever Smoker,33,14.9,4.6,Positive,87,95,0:No recurrence,16.43333333,16.43333333,0:LIVING
+P-0026187,Female,66,Ever Smoker,45,22.3,4.5,Negative,58,79,0:No recurrence,19.63333333,19.63333333,0:LIVING
+P-0026206,Female,66,Ever Smoker,15.75,0,0.8,Negative,87,81,0:No recurrence,13.1,13.1,0:LIVING
+P-0026262,Female,58,Ever Smoker,13.5,2.1,1.2,Negative,70.1,96.2,0:No recurrence,26.46666667,26.46666667,0:LIVING
+P-0026292,Female,68,Never Smoker,0,0.8,1.5,Negative,116,96,0:No recurrence,18.03333333,18.03333333,0:LIVING
+P-0026426,Female,60,Ever Smoker,1.25,3.6,1.1,Negative,87,81,0:No recurrence,15.13333333,15.13333333,0:LIVING
+P-0026688,Female,63,Ever Smoker,45,6.4,1.6,Negative,59,100,1:Recurrence,4.466666667,18.2,0:LIVING
+P-0026697,Female,68,Ever Smoker,15,6.2,4,Negative,124,90,0:No recurrence,10.26666667,10.26666667,0:LIVING
+P-0026708,Male,62,Ever Smoker,45,3.6,1.9,Negative,89,62,0:No recurrence,14.96666667,14.96666667,0:LIVING
+P-0026777,Male,56,Never Smoker,0,1.5,2.7,Negative,113,87,0:No recurrence,13.86666667,13.86666667,0:LIVING
+P-0026778,Female,73,Ever Smoker,31,1.1,1.2,Negative,49,70,0:No recurrence,13.8,13.8,0:LIVING
+P-0026830,Female,82,Ever Smoker,60,2.1,1.6,Negative,74,103,0:No recurrence,14.43333333,14.43333333,0:LIVING
+P-0026968,Male,71,Ever Smoker,56,20.7,1.4,Negative,65,50,0:No recurrence,14.66666667,14.66666667,0:LIVING
+P-0026987,Male,80,Ever Smoker,5,6,1.8,Negative,85,80,0:No recurrence,12.16666667,12.16666667,0:LIVING
+P-0027018,Male,70,Ever Smoker,15,6.5,2.3,Negative,62,59,0:No recurrence,13.3,13.3,0:LIVING
+P-0027071,Female,50,Ever Smoker,14.25,0.7,1,Negative,118,116,0:No recurrence,13.06666667,13.06666667,0:LIVING
+P-0027093,Female,69,Ever Smoker,20,2.5,3.4,Negative,88,101,0:No recurrence,15.23333333,15.23333333,0:LIVING
+P-0027131,Female,75,Never Smoker,0,2.9,1.8,Negative,95,149,0:No recurrence,13.26666667,13.26666667,0:LIVING
+P-0027187,Female,55,Ever Smoker,12.75,4.1,3.1,Negative,91,100,0:No recurrence,3.633333333,3.633333333,0:LIVING
+P-0027196,Male,69,Ever Smoker,30,2,1.2,Negative,77,84,1:Recurrence,5.3,5.3,0:LIVING
+P-0027353,Female,61,Ever Smoker,20,5.3,2.1,Negative,97,118,0:No recurrence,12.13333333,12.13333333,0:LIVING
+P-0027523,Male,42,Never Smoker,0,0,1.4,Negative,123,106,0:No recurrence,13.33333333,13.33333333,0:LIVING
+P-0027531,Female,49,Never Smoker,0,12.1,2.6,Negative,95,95,1:Recurrence,6.666666667,14.5,0:LIVING
+P-0027615,Male,66,Ever Smoker,6,1.6,1.6,Negative,108,84,0:No recurrence,13.1,13.1,0:LIVING
+P-0027709,Male,67,Ever Smoker,106,1.7,1.5,Positive,71,92,0:No recurrence,7.5,7.5,0:LIVING
+P-0027812,Male,59,Ever Smoker,46,1.8,6.6,Negative,56,82,1:Recurrence,8.766666667,19.56666667,0:LIVING
+P-0027817,Female,72,Ever Smoker,45,2.3,2.3,Negative,69,90,1:Recurrence,28.7,36.26666667,0:LIVING
+P-0027826,Male,67,Ever Smoker,75,4.8,1.9,Negative,84,89,0:No recurrence,15.13333333,15.13333333,0:LIVING
+P-0027848,Male,56,Ever Smoker,102,4.3,1.3,Negative,88,97,0:No recurrence,8.166666667,8.166666667,0:LIVING
+P-0027860,Female,59,Ever Smoker,25,4.4,3.3,Negative,99,100,0:No recurrence,12.86666667,12.86666667,0:LIVING
+P-0028012,Female,45,Never Smoker,0,4.1,8.5,Negative,114,92,0:No recurrence,14.86666667,14.86666667,0:LIVING
+P-0028092,Male,71,Ever Smoker,46,9,1.4,Positive,85,104,0:No recurrence,12.86666667,12.86666667,0:LIVING
+P-0028096,Male,71,Ever Smoker,45,4.3,2.9,Negative,100,108,0:No recurrence,13.23333333,13.23333333,0:LIVING
+P-0028111,Female,60,Ever Smoker,40,1.2,1.2,Negative,73,86,0:No recurrence,12.96666667,12.96666667,0:LIVING
+P-0028162,Male,70,Ever Smoker,16,3,2,Negative,76,70,0:No recurrence,15.03333333,15.03333333,0:LIVING
+P-0028245,Male,64,Ever Smoker,52,7.7,2.5,Negative,124,118,1:Recurrence,16.1,16.6,0:LIVING
+P-0028486,Male,60,Never Smoker,0,5.7,2.7,Negative,118,92,0:No recurrence,34.93333333,34.93333333,0:LIVING
+P-0028694,Female,73,Ever Smoker,39,3,1.6,Negative,98,110,0:No recurrence,13,13,0:LIVING
+P-0028809,Female,56,Ever Smoker,27,5.6,1.4,Positive,77,112,0:No recurrence,6.6,6.6,0:LIVING
+P-0028906,Male,54,Ever Smoker,15,2.9,3.5,Negative,108,64,0:No recurrence,15.3,15.3,0:LIVING
+P-0028916,Female,48,Ever Smoker,27,19.4,3.3,Negative,84,89,0:No recurrence,19.36666667,19.36666667,0:LIVING
+P-0028936,Female,71,Never Smoker,0,3.1,1.3,Negative,82,119,0:No recurrence,11.93333333,11.93333333,0:LIVING
+P-0028947,Female,77,Never Smoker,0,12.7,4.8,Negative,104,88,1:Recurrence,11.83333333,15.1,0:LIVING
+P-0029016,Female,62,Ever Smoker,30,0,1.1,Negative,111,106,0:No recurrence,50.96666667,50.96666667,0:LIVING
+P-0029115,Female,68,Never Smoker,0,3,1.9,Negative,145,142,0:No recurrence,15.13333333,15.13333333,0:LIVING
+P-0029180,Female,68,Ever Smoker,24,6.5,4.9,Negative,77,92,0:No recurrence,9.2,9.2,0:LIVING
+P-0029224,Male,76,Ever Smoker,24,11.5,2.5,Negative,83,108,1:Recurrence,5.5,7.766666667,1:DECEASED
+P-0029294,Male,63,Ever Smoker,153,4.7,2.4,Negative,91,95,0:No recurrence,12.53333333,12.53333333,0:LIVING
+P-0029324,Female,43,Ever Smoker,0.3,1,1.2,Negative,99,104,0:No recurrence,0.733333333,0.733333333,0:LIVING
+P-0029357,Male,76,Ever Smoker,2.5,16.7,3.5,Positive,69,94,0:No recurrence,9.866666667,9.866666667,0:LIVING
+P-0029396,Male,64,Ever Smoker,35,4,6.6,Negative,84,108,0:No recurrence,13.63333333,13.63333333,0:LIVING
+P-0029402,Female,62,Never Smoker,0,1,1.2,Negative,107,92,0:No recurrence,3.866666667,3.866666667,0:LIVING
+P-0029545,Male,79,Ever Smoker,59,3.8,3,Negative,75,69,0:No recurrence,12.4,12.4,0:LIVING
+P-0029561,Female,42,Never Smoker,0,1.1,2.3,Negative,94,84,0:No recurrence,12.86666667,12.86666667,0:LIVING
+P-0029583,Male,61,Ever Smoker,3.75,4.6,2.1,Negative,97,119,0:No recurrence,12.43333333,12.43333333,0:LIVING
+P-0029585,Male,71,Ever Smoker,52,3.3,0.9,Negative,102,109,0:No recurrence,12.76666667,12.76666667,0:LIVING
+P-0029624,Female,75,Ever Smoker,62,2.6,1,Negative,75,97,0:No recurrence,6.966666667,6.966666667,0:LIVING
+P-0029663,Female,65,Ever Smoker,37.6,1.67,1.5,Negative,80,84,0:No recurrence,3.7,3.7,0:LIVING
+P-0029977,Male,61,Ever Smoker,40,9.2,2.6,Negative,111,95,0:No recurrence,1.233333333,1.233333333,0:LIVING
+P-0030094,Female,78,Ever Smoker,45,1.7,1.4,Negative,77,64,0:No recurrence,4.8,4.8,0:LIVING
+P-0030104,Female,50,Ever Smoker,1.75,3.6,2.1,Negative,102,84,0:No recurrence,12.03333333,12.03333333,0:LIVING
+P-0030317,Female,79,Ever Smoker,65,0,2.8,Negative,49,125,0:No recurrence,12.53333333,12.53333333,0:LIVING
+P-0030453,Male,66,Ever Smoker,12,4.5,1.7,Positive,110,117,0:No recurrence,12.23333333,12.23333333,0:LIVING
+P-0030626,Female,61,Ever Smoker,30,7.6,3,Negative,86,74,0:No recurrence,6.166666667,6.166666667,0:LIVING
+P-0030694,Female,81,Ever Smoker,45,12.04,3.1,Negative,67,71,0:No recurrence,2.433333333,2.433333333,1:DECEASED
+P-0030710,Female,84,Ever Smoker,19,0,2.8,Negative,94,110,0:No recurrence,11.23333333,11.23333333,0:LIVING
+P-0030869,Female,66,Ever Smoker,11.25,1.5,1.4,Negative,112,96,0:No recurrence,12.9,12.9,0:LIVING
+P-0030893,Female,64,Ever Smoker,44,6.9,1.2,Negative,58.2,71.7,0:No recurrence,15.2,15.2,0:LIVING
+P-0030990,Female,34,Never Smoker,0,2,1,Positive,111,84,0:No recurrence,8.766666667,8.766666667,0:LIVING
+P-0031046,Female,65,Never Smoker,0,1.6,1.5,Negative,87,110,0:No recurrence,13.13333333,13.13333333,0:LIVING
+P-0031081,Male,73,Ever Smoker,20,0.9,2,Negative,113,111,0:No recurrence,12.63333333,12.63333333,0:LIVING
+P-0031090,Female,57,Ever Smoker,6,2.3,1.4,Negative,80,81,0:No recurrence,9.7,9.7,0:LIVING
+P-0031096,Female,69,Ever Smoker,13.5,3.8,3.5,Negative,78,120,0:No recurrence,11.13333333,11.13333333,0:LIVING
+P-0031139,Female,59,Ever Smoker,9,6.1,2.4,Negative,86,97,1:Recurrence,10.6,13.1,0:LIVING
+P-0031267,Female,75,Ever Smoker,15,1.8,3.9,Negative,72,87,1:Recurrence,35.66666667,49.43333333,0:LIVING
+P-0031283,Female,69,Ever Smoker,19.5,3,2.9,Negative,85,105,0:No recurrence,0.666666667,0.666666667,0:LIVING
+P-0031442,Male,69,Ever Smoker,20,4.9,1.6,Negative,56,58,0:No recurrence,6.666666667,6.666666667,0:LIVING
+P-0031526,Male,69,Never Smoker,0,1.7,1.4,Negative,88,105,0:No recurrence,11.1,11.1,0:LIVING
+P-0031694,Female,74,Never Smoker,0,6,3.4,Positive,109,117,1:Recurrence,12.5,12.5,0:LIVING
+P-0031707,Male,61,Ever Smoker,33.75,2.3,0.8,Negative,52,87,0:No recurrence,6.6,6.6,0:LIVING
+P-0031737,Male,78,Ever Smoker,0.84,5.6,3.6,Negative,107,95,1:Recurrence,1.2,11.83333333,0:LIVING
+P-0031740,Female,48,Never Smoker,0,2.9,1.4,Negative,97,131,0:No recurrence,9.766666667,9.766666667,0:LIVING
+P-0032008,Female,67,Ever Smoker,102,11,6.3,Negative,56.3,54.4,0:No recurrence,12.2,12.2,0:LIVING
+P-0032029,Male,78,Ever Smoker,100,6.9,1.5,Negative,35,102,0:No recurrence,11.36666667,11.36666667,0:LIVING
+P-0032112,Male,68,Ever Smoker,25,4.7,1,Negative,93,120,0:No recurrence,6.666666667,6.666666667,0:LIVING
+P-0032170,Male,72,Never Smoker,0,19,6,Negative,95,75,1:Recurrence,10.1,11.93333333,0:LIVING
+P-0032177,Male,83,Never Smoker,0,2.2,3.3,Negative,95,128,0:No recurrence,9.633333333,9.633333333,0:LIVING
+P-0032231,Male,67,Ever Smoker,84,4.7,2.5,Negative,83,77,0:No recurrence,6.633333333,6.633333333,0:LIVING
+P-0032476,Female,75,Ever Smoker,7,7.8,1,Negative,77,84,0:No recurrence,7.1,7.1,0:LIVING
+P-0032479,Female,74,Ever Smoker,3.75,1.1,1.5,Negative,101,93,0:No recurrence,6.133333333,6.133333333,0:LIVING
+P-0032532,Female,71,Ever Smoker,15,0,1,Negative,85,120,0:No recurrence,6.733333333,6.733333333,0:LIVING
+P-0032534,Female,60,Ever Smoker,45,14.6,1.4,Negative,91,102,0:No recurrence,6.433333333,6.433333333,0:LIVING
+P-0032635,Male,73,Never Smoker,0,8.5,2.9,Negative,62,88,0:No recurrence,6.5,6.5,0:LIVING
+P-0032644,Female,63,Never Smoker,0,3.1,2.2,Negative,92,102,0:No recurrence,5.733333333,5.733333333,0:LIVING
+P-0032645,Male,73,Ever Smoker,50,0,1.3,Negative,70,65,0:No recurrence,6.966666667,6.966666667,0:LIVING
+P-0032676,Male,76,Never Smoker,0,0,1.6,Negative,97,89,0:No recurrence,6.7,6.7,0:LIVING
+P-0032682,Female,75,Never Smoker,0,5.1,4.1,Negative,93,93,0:No recurrence,10.63333333,10.63333333,0:LIVING
+P-0032689,Female,64,Ever Smoker,22,6.3,1.7,Negative,66,73,0:No recurrence,10,10,0:LIVING
+P-0032862,Female,48,Ever Smoker,22.5,5.6,1,Negative,89,130,0:No recurrence,5.866666667,5.866666667,0:LIVING
+P-0033068,Female,81,Ever Smoker,30,11.8,1.9,Negative,81,114,0:No recurrence,7.133333333,7.133333333,0:LIVING
+P-0033072,Female,83,Ever Smoker,50,7.9,3.8,Negative,101,102,0:No recurrence,0.9,0.9,0:LIVING
+P-0033379,Male,77,Never Smoker,0,5.3,7.6,Negative,88,120,1:Recurrence,6.866666667,10.26666667,0:LIVING
+P-0033380,Female,72,Ever Smoker,11.25,1.8,2.2,Negative,85,110,0:No recurrence,4.366666667,4.366666667,0:LIVING
+P-0033406,Female,73,Ever Smoker,15,2.3,4,Negative,116,102,0:No recurrence,10.33333333,10.33333333,0:LIVING
+P-0033508,Female,69,Never Smoker,0,7,3.3,Negative,74,87,0:No recurrence,7.3,7.3,0:LIVING
+P-0033579,Female,63,Never Smoker,0,2.6,6.3,Negative,92,96,0:No recurrence,6.6,6.6,0:LIVING
+P-0033581,Female,77,Ever Smoker,80,3.9,1.1,Negative,58,51,0:No recurrence,6.8,6.8,0:LIVING
+P-0033615,Male,78,Ever Smoker,59,13.4,2.1,Negative,56,95,0:No recurrence,6.1,6.1,0:LIVING
+P-0033631,Female,65,Ever Smoker,4,2.1,2.3,Negative,102,106,0:No recurrence,6.7,6.7,0:LIVING
+P-0033766,Female,59,Ever Smoker,40,8.4,3.7,Negative,87,78,0:No recurrence,9.133333333,9.133333333,0:LIVING
+P-0033823,Female,81,Ever Smoker,60,5.3,1.2,Negative,66,75,0:No recurrence,10.36666667,10.36666667,0:LIVING
+P-0033926,Female,62,Ever Smoker,40,0,1,Negative,86,83,0:No recurrence,4.466666667,4.466666667,0:LIVING
+P-0034215,Male,73,Ever Smoker,25,8,2.1,Negative,111,88,0:No recurrence,7.2,7.2,0:LIVING
+P-0034604,Female,73,Never Smoker,0,2,2.2,Negative,77,84,0:No recurrence,6.566666667,6.566666667,0:LIVING
+P-0034643,Male,81,Never Smoker,0,2.1,2.3,Negative,52,48,0:No recurrence,8.233333333,8.233333333,0:LIVING
+P-0034948,Female,74,Ever Smoker,50,14.2,2.6,Negative,89,76,0:No recurrence,6.7,6.7,0:LIVING
+P-0035026,Female,65,Ever Smoker,2.5,3.7,1.7,Negative,98,134,0:No recurrence,6.366666667,6.366666667,0:LIVING
+P-0035135,Female,56,Never Smoker,0,0,2.4,Negative,86,85,0:No recurrence,6.566666667,6.566666667,0:LIVING
+P-0035139,Female,77,Ever Smoker,54,4.4,2.5,Negative,59,71,0:No recurrence,2.3,2.3,0:LIVING
+P-0035240,Male,61,Ever Smoker,42,2.2,1.3,Negative,72,78,0:No recurrence,6.6,6.6,0:LIVING
+P-0035244,Female,77,Ever Smoker,40,1.1,0.9,Negative,91,147,0:No recurrence,4.1,4.1,0:LIVING
+P-0035278,Female,73,Ever Smoker,4,5.6,2.7,Negative,61,104,0:No recurrence,6.566666667,6.566666667,0:LIVING
+P-0035280,Male,69,Never Smoker,0,2.2,4.8,Negative,73,101,0:No recurrence,3.433333333,3.433333333,0:LIVING
+P-0035293,Female,81,Ever Smoker,20,6,3.2,Negative,66,124,0:No recurrence,6.566666667,6.566666667,0:LIVING
+P-0035431,Female,68,Ever Smoker,40,5.1,3.1,Negative,66,98,0:No recurrence,4.733333333,4.733333333,1:DECEASED
+P-0035469,Male,65,Ever Smoker,48,13.3,1.3,Negative,80,72,0:No recurrence,5.5,5.5,0:LIVING
+P-0035488,Female,75,Never Smoker,0,0,2,Negative,114,134,0:No recurrence,6.566666667,6.566666667,0:LIVING
+P-0035494,Female,65,Ever Smoker,45,2.8,1.9,Negative,83,131,0:No recurrence,6.7,6.7,0:LIVING
+P-0035731,Female,60,Ever Smoker,3.5,7.7,6,Negative,89,102,0:No recurrence,3.4,3.4,0:LIVING
+P-0035869,Female,71,Ever Smoker,27.75,1.3,3.4,Negative,71,99,0:No recurrence,6.7,6.7,0:LIVING
+P-0035922,Female,71,Ever Smoker,2.5,1.9,1.9,Negative,123,83,0:No recurrence,6.8,6.8,0:LIVING
+P-0036032,Female,80,Never Smoker,0,1.8,2.5,Negative,64,73,0:No recurrence,7.066666667,7.066666667,0:LIVING
+P-0036225,Female,64,Ever Smoker,30,3.4,1.6,Positive,97,82,0:No recurrence,4.966666667,4.966666667,0:LIVING
+P-0036267,Male,71,Never Smoker,0,8.4,3.3,Negative,129,124,0:No recurrence,7.766666667,7.766666667,0:LIVING
+P-0036310,Female,76,Ever Smoker,20,8.1,2.1,Negative,70,100,0:No recurrence,7.3,7.3,0:LIVING
+P-0036387,Male,55,Never Smoker,0,1.6,1.8,Negative,138,87,0:No recurrence,5.9,5.9,0:LIVING
+P-0036513,Female,52,Ever Smoker,0.05,1.3,1.4,Negative,93,98,0:No recurrence,4.3,4.3,0:LIVING
+P-0036637,Female,64,Never Smoker,0,3.4,2.8,Negative,84,93,0:No recurrence,7.066666667,7.066666667,0:LIVING
+P-0036639,Female,81,Ever Smoker,8,2.4,1,Negative,88,98,0:No recurrence,7.033333333,7.033333333,0:LIVING
+P-0036744,Male,69,Ever Smoker,40,6.3,2.8,Negative,93,88,0:No recurrence,6.333333333,6.333333333,0:LIVING
+P-0036810,Male,73,Ever Smoker,46,7.3,2.7,Negative,105,84,0:No recurrence,3.566666667,3.566666667,0:LIVING
+P-0037833,Female,72,Ever Smoker,33.75,0,0.9,Negative,71,102,0:No recurrence,4.4,4.4,0:LIVING
+P-0038206,Male,56,Never Smoker,0,1.6,1.5,Negative,108,122,0:No recurrence,0.533333333,0.533333333,0:LIVING
+P-0038834,Female,70,Ever Smoker,15,1.8,2.4,Negative,100,117,0:No recurrence,6.3,6.3,0:LIVING
